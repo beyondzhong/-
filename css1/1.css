@@ -1,0 +1,79 @@
+#header{
+    background-color:white;
+}
+
+    word-spacing:6cm;
+    position:relative;
+    left:0cm;
+    bottom:25.2cm;
+}
+
+    position:absolute;
+    z-index:2;
+    left:0cm;
+    top:10cm;
+}
+
+    word-spacing:18cm;
+    position:relative;
+    left:13cm;
+    bottom:26.5cm;
+}
+
+    position:absolute;
+    z-index:2;
+    left:0cm;
+    top:10cm;
+}
+
+    position:relative;
+    left:13cm;
+    bottom:26.5cm;
+}
+
+    border:1px solid black;
+}
+
+    position:absolute;
+    z-index:2;
+    left:12cm;
+    top:0cm;
+}
+
+    list-style-type:disc;
+}
+
+    word-spacing:10cm;
+    position:relative;
+    left:0cm;
+    bottom:25.2cm;
+}
+    position:absolute;
+    z-index:2;
+    left:0cm;
+    top:21cm;
+}
+
+    word-spacing:10cm;
+    position:relative;
+    left:16cm;
+    bottom:26.5cm;
+}
+
+    position:absolute;
+    z-index:2;
+    left:16cm;
+    top:21cm;
+}
+
+    word-spacing:10cm;
+    position:relative;
+    left:33cm;
+    bottom:27.7cm;
+}
+
+    position:absolute;
+    z-index:2;
+    left:30cm;
+    top:30cm;
+}
